@@ -26,7 +26,7 @@ title: "Constraining gravitational wave amplitude birefringence with GWTC-3"
 
 **Illustration**:
 
-<img src="{{site.baseurl}}/public/image/birefringence.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/birefringence.pdf"/>
 
 the **upper panel** of the figure above shows the absolute **amplitude** of the left and right **polarization** in the **frequency domain**. The dotted lines show the original waveforms with GR. With the effect of birefringence, one polarization is enhanced while the other is suppressed, with **higher frequency** components of the waveforms being **modified more**. The **lower panel** shows the same effect in the **time domain**.
 
@@ -52,7 +52,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ## Result
 
-<img src="{{site.baseurl}}/public/image/violin_kappa.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/violin_kappa.pdf"/>
 
 - Individual posteriors colored by magnitude of deviation $$\mu/\sigma$$
 - **Restricted result** (blue region):
@@ -60,7 +60,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ### Hierarchical analysis (Generic Result)
 
-<img src="{{site.baseurl}}/public/image/corner_Gaussian.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/corner_Gaussian.pdf"/>
 
 - Lack of birefringence is supported within 90% credibility
 - $$\sigma$$ posterior peaks visibly **away from the origin**
@@ -72,7 +72,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ### GW170818
 
-<img src="{{site.baseurl}}/public/image/corner_GW170818.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/corner_GW170818.pdf"/>
 
 - **Most displaced** posterior from $$\kappa=0$$
 - GR analysis gives $$\cos\iota=-1$$ ($$\iota$$: inclination angle)
@@ -88,7 +88,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ### GW190521
 
-<img src="{{site.baseurl}}/public/image/corner_GW190521.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/corner_GW190521.pdf"/>
 
 - **Bimodal** posterior distribution on $$\kappa$$
 - **Least support** for $$\kappa=0$$
@@ -103,7 +103,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ### $$\kappa$$ correlated with $$q$$ & spins
 
-<img src="{{site.baseurl}}/public/image/mass_ratio.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/mass_ratio.pdf"/>
 
 - Examine the effect of birefringence on other parameters with two events as examples
     - Both events give **bimodal** $$\kappa$$ posteriors, but do not rule out $$\kappa=0$$
@@ -116,7 +116,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ### GW200129
 
-<img src="{{site.baseurl}}/public/image/corner_GW200129.pdf"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/corner_GW200129.pdf"/>
 
 - Second-largest deviation from $$\kappa=0$$
 - May have been affected by a **glitch** in the Virgo instrument
@@ -136,7 +136,7 @@ Note that $$\kappa=0$$ represents no amplitude birefringence, and the observed w
 
 ## More about the author
 
-<img src="{{site.baseurl}}/public/image/thomas.jpeg"/>
+<img src="{{site.url}}{{site.baseurl}}/public/image/thomas.jpeg"/>
 
 Thomas Ng is a M.Phil. student at The Chinese University of Hong Kong.
 More about Thomas: [Thomas's Personal Website](https://thomasckng.github.io)
